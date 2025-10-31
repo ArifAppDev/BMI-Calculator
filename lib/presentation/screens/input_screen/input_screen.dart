@@ -1,5 +1,6 @@
 import 'package:bmi_calculator/calculate_bmi.dart';
-import 'package:bmi_calculator/result.dart';
+import 'package:bmi_calculator/presentation/screens/result_screen/restut_screen.dart';
+
 import 'package:flutter/material.dart';
 
 class InputScreen extends StatefulWidget {
