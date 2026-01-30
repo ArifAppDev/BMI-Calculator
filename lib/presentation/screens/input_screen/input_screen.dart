@@ -54,7 +54,7 @@ class _InputScreenState extends State<InputScreen> {
             ),
           ),
 
-          // second container ....weight...............
+          // second container ============weight ===============
           Container(
             margin: EdgeInsets.only(top: 10, right: 55, left: 55),
             padding: EdgeInsets.symmetric(vertical: 30, horizontal: 10),
